@@ -1,0 +1,67 @@
+#navBar {
+    background-color: #333333;
+    height: 70px;
+}
+
+nav a {
+    display: inline-block;
+    font-size: 17px;
+}
+
+nav a, #intro h3 {
+    color: #ff0099;
+}
+
+nav {
+   
+    margin: 0 150px 0 0;
+}
+
+nav a {
+    float: right;
+    padding: 30px;
+}
+
+#logo img {
+    padding: 10px;
+    margin: 10px 0 0 150px;
+    height: 40px;
+    width: 40px;
+}
+
+h1, h2, h3, p, a {
+    padding: 0 10%;
+    font-family: 'consolas', courier;
+}
+
+p.separator{
+    text-align: center;
+    font-size: 20px;
+    line-height: 200%;
+}
+
+#intro p{
+    font-size: 20px;
+    line-height: 130%;
+}
+
+#wiki p{
+    font-size: 15px;
+    line-height: 200%;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2{
+    text-align:center;
+}
+
+footer {
+    color: white;
+    height: 25px;
+    background-color:  #333333;
+    text-align: right;
+}
